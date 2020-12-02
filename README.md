@@ -2,7 +2,7 @@
 
 Support material for this repository:
 
-http://mazharulhuqblog.files.wordpress.com/2020/12/chapter-7-view-modifiers.pdf
+http://mazharulhuqblog.files.wordpress.com/2020/12/chapter-7-view-modifiers-1.pdf
 
 This repository has 8 projects:
 
